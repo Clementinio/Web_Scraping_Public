@@ -30,6 +30,8 @@ to start the the scraping.
 ***If new key words need to be included, please follow the syntaxes in the file.***
 
 
+
+
 **NB :** This code can only be for personal use. The use by a company is subject to contact CEPEI(Colombia or the Author)
 
 ***Author:*** Abiodoun Clement HOUNKPEVI
